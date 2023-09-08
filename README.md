@@ -1,3 +1,3 @@
-# Django style project setup study
+# Django style project setup
 
 fastapi, alembic, mysql, sqlalchemy
